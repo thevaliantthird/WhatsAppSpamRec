@@ -1,0 +1,2028 @@
+ E1 for AB and that for A would be different
+ he's not saying that Eâ works to convert AB also
+ he knows that EâA is in REF and BEâ in CEF
+then he's computing the product (EâA)(BEâ)
+ à¤¬à¤¤à¤¾ à¤¦à¥ à¤¯à¤¾à¤°, à¤à¥à¤¯à¥à¤ à¤®à¥à¤à¥ suspense à¤¸à¥ à¤®à¤°à¤¨à¤¾ à¤¹à¥? Already à¤µà¥ SoC à¤µà¤¾à¤²à¤¾ suspense à¤à¤² à¤°à¤¹à¤¾ à¤¹à¥
+ *à¤®à¤¾à¤°à¤¨à¤¾
+ _I'm not your à¤¯à¤¾à¤°_
+ Sorry. à¤­à¥à¤¯à¤¾ would have fit better
+ <Media omitted>
+I'm not à¤­à¥à¤¯à¤¾ either
+ inb4 I'm not your à¤­à¥à¤¯à¤¾
+ I called it ð
+ I didn't say I'm not his à¤­à¥à¤¯à¤¾
+ I said I'm not à¤­à¥à¤¯à¤¾ at all ð
+ wait what
+ Can be done like this (i hope). Take a basis of the col space say x_1,x_2...x_k the  the col space becomes Ex_1...Ex_k. Since E is invertible the new col space is also a basis. And conversely if Ex_1...Ex_r is a basis then x_1...x_r is a basis
+ Will the product of two matrices in REF always be in REF ?
+ <Media omitted>
+because this is Q5 ð¤ 
+ Wait what!!!
+ You should have used italics
+ ðð
+ What even? I thought the discussion was about ero not affecting rank. ð
+ STK-20210319-WA0032.webp (file attached)
+ yeah, that's Q 3.4
+ Sorry ð
+ Yeah that was the method I said above i know about
+ it's okay
+ don't do it next time
+ Ok
+ I'll try my best
+ thanks
+ Anytime
+ Ono
+ I actually noticed that was an error but I didn't think u would seriously consider it lol
+ Don't kicc
+ imitation is sincerest form of flattery ð¥°
+ heh
+ for the record
+ if I say something this drastic
+ I probably am going for something unexpected
+ K
+ I actually noticed this is the only discussion group not created by a freshie
+ Physics?
+ D2 Math Discussion also
+ With the exception of Bio. The creator left
+ Didn't tanmay create this group?
+ Why would I know about that?
+ Whyd u say that name
+ xD
+ didn't say you would
+ No, @919886135500  did
+ lol what no
+ @917738727210 How are you admin?
+ you can see the creator
+ unless iOS something something
+ WA web also
+ I made
+ Oh
+ <Media omitted>
+ ð®
+ Abe talking about bio group
+ No
+ Oh ok
+ @917738727210 Bade log ð meet soon
+ ð
+ Bruh
+ IMG-20210321-WA0001.jpg (file attached)
+Here if m-r=1,then as the first r rows are non zero linearly independent and r+1 th is zero row.  Then r+1 th row will also can not be written as linear combination of first r rows. Then why last one is not linearly independent
+ The r+1th row can be writte  as a linear combination of the first r rows
+ Thats how it became zero
+ Yes
+But now r+1 row is zero row so if u write r+1'row as a linear combination of first r rows then
+Isn't is is same as saying first r rows as linearly dependent
+ *0* is always a linear combination of any set of vectors
+ How?
+ Taking coefficients as 0
+ just make coefficient 0
+ But then for linearly dependent we must have atleast one nonzero coefficient
+ no you're mixing stuff up
+ this always works
+ for linearly dependent, you have other possibilities as well
+ but that is immaterial
+ <Media omitted>
+Was this supposed to be V ?
+ *writeð¤¦ð»ââï¸
+ IMG-20210321-WA0005.jpg (file attached)
+ IMG-20210321-WA0004.jpg (file attached)
+ Is my *written* solution *right*?
+ well technically you've only shown that *your* algorithm will require n steps for A = O
+ I have to also show that it cannot be done in less than n for A=O
+ yes
+ Which is elementary
+ in fact, you can actually show that for a general A, you can't do with fewer than
+n - rank(A) moves
+ If you use less than n steps by PHP atleast one row that is O
+ correct
+ That is similarly elementary
+ Atleast one column remains a linear combination of others
+ or well actually, you could've done the changes in the 'r' linearly independent columns as well
+ <Media omitted>
+How to prove this statement
+ use the definition of linearly (in)dependence
+ Oh..yeah got itð 
+ *ð
+ Well I've reduced it to proving rank(A+B)<=rank(A)+rank(B)
+ But before proceeding is this statement true?
+ in fact, the union is a subspace iff one of them is contained in the other
+ also, notice the _range space_ of a matrix A â â^{m Ã n} defined as
+
+R(A) â {Ax : x â ââ¿} is a subspace of âáµ
+
+Moreover, dim(R(A)) = rank(A)
+ with the above two observations, your inequality should be simple to derive
+ ð 
+ It wasn't intentional
+Believe me
+ â is used when the intersection is known to be *{0}*
+ possibly useful intermediate result:
+given two subspaces U, W â ââ¿, the intersection U â© W is always a subspace but the union U âª W need not be a subspace but the following is:
+
+U + W â {u + w : u â U and w â W}
+
+The above is the smallest subspace of ââ¿ containing both the subspaces U and W.
+
+Moroever, dim(U + W) = dim(U) + dim(W) - dim(U â© W).
+ rewriting again so that fewer people see the wrong notation
+ What are all the conditions for a set to be a basis
+ Linearly independent and span is the subspace
+ And the cardinality one ?
+ Just linearly independent and max cardinality among all linearly independent subsets of the subspace
+ the ones with cardinality only apply for ââ¿ btw (later in the course you will see some infinite dimensional spaces where it won't be true)
+ Okay thanks both
+ <Media omitted>
+ <Media omitted>
+Lecture7_D1D2_94a9ea6b48a725838b7f6f0c3dfa7ee4.pdf
+ Does the statement S spans V, imply that S only spans V....or that V is a subset of Span(S)?
+ I don't think it matters, because in the second case, V wouldn't be a subspace in the first place...
+ Why
+ Does i, j, k span x-y plane??
+ i hat, j hat, k hat that is
+ Oh, yes sorry ð¤¦ð¾ââï¸
+ Now though, I don't think second would be true, because then i j k would be a basis for xy plane
+ Which seems odd
+ Since span + linearly independent implies basis
+ Though, I think it shpuld be the first one since we defined S spans V as span S = V
+ I was getting unnecessarily literalð
+ Yup fiest statement is true but second may get corrected as it can also be called subset of spanV ig proper subset i.e. or some other name for it
+ Both are true
+ Can it be proper subset?
+ It can be, but the component of k would be 0
+ Thats all
+ iirc, R^2 is a subspace inside R^3
+ So nothing wrong with that
+ It'll unnecessarily disturb our definitions, we define basis for a subspace as a subset of that subspace
+ heh, when defining span S, the underlying assumption is that S â V
+ and what you raise is a good point
+often, in proofs, if you have a set B â V and a subspace W â V, in order to show that B is a basis for W, you must also show that B â W
+ Ah! That makes sense
+ This automatically guarantees that V cannot be a subset of span S right ?
+ Yes ig
+ it guarantees that span S has to be a subset of V
+ what you're saying is not tru
+ e
+ He means proper subset ig
+ Yeah I mean proper subset
+ How are we using this fact before proving it
+ Induction hypothesis tha na?
+ Induction
+ that matrix is strictly smaller
+ elaborate
+ *A* has size n Ã n and that matrix *A*_{kj} has (n - 1) Ã (n - 1)
+ so what
+ do you know what the principle of mathematical induction is
+ got it
+ because
+ continue
+ <Media omitted>
+what is done in this part of the proof?
+ they're showing that an ERO of type II does not change the row rank
+ huh
+ what is the argument?
+ whatever that is given there
+ if there's something you don't understand, ask more specifically
+ got it
+ IMG-20210323-WA0014.jpg (file attached)
+Why any row  vector of A is a linear combn of only those r vectors. It should be linear combn of all the row vectors na?
+ row rank = r
+ and that is an assumption
+ If I have a set of r column vectors which are linearly independent then can I add a non zero  column vector C with its coefficient zero and say the new set is linearly independent?
+ Why
+ Check the definition for linear independence
+ The *only* solution to the linear combination being 0 should be all coefficients being 0
+ what do you mean "add a column vector with coefficient zero"
+ ++
+ I think she meant in the new linear combination she makes the coefficient of the added column 0
+ Yeah
+ But u r just using the fact that all variables as 0 always solves a homogeneous equation
+ U need to prove it's only solution possible
+ We donât *create* linear independence, we just check for it I guess
+ Then the set will be linearly independent
+ Yes
+ you talk about linear independence of a set
+ not of an equation
+ Important tip ??
+ Then how in that proof we say that rank was greater than r
+ @919886135500
+ so where do you have problem
+ BTW in the rows of a submatrix we have only some elements of the corresponding rows of the matrix.
+So how does the LI of rows in the submatrix imply the LI of the rows of the matrix?
+ Since if the 'extentded rows' of original matrix were Linearly dependent,then so wud be the rows of submatrix
+ Because if the rows of the matrix were linearly dependant then the rows of the submatrix would be linearly dependant as well.
+ Right
+ IMG-20210323-WA0020.jpg (file attached)
+Can someone explain this proof plz
+ IMG-20210323-WA0024.jpg (file attached)
+If r(among the m) rows are linearly independent then how can the each row vector of A is a linear combination of these r row vectors
+ we're taking r to be the largest possible
+ <Media omitted>
+But if they are independent then we can't write this eqn na
+ IMG-20210323-WA0025.jpg (file attached)
+Taking this as A matrix
+ a_3 = b_3, right?
+ IMG-20210323-WA0026.jpg (file attached)
+How to approach this?
+ not sure if doable with stuff you know, except for just inspection/brute-force
+ Observation 6.5-2.5=4
+ I recall someone doing it via inspection by noting that 6.25 = 2.5Â² + 0.5Â²
+ Yeah..I made that but how to relate it to actually getting the ans?
+ EROs and ECOs might help
+ Yeah..then right now we can only guess the matrix?
+ Do eros in premultiplication and ecos in post
+ Similar to how we find inverse of matrix by eros
+ Ecos?
+That could be type 1 only na?
+ Type 2 and 3 won't be there
+ You can do ecos AB= I in B
+ Try proving this by taking transpose
+ Why
+ Ecos in B will be equivalent to eros in B_transpose
+ can you write this out? I'm not sure I follow what you're trying to do
+ (EA^T)^T = AE^T
+ E is elementary
+ I was thinking it as Ax=B
+My bad
+ Self respect ?
+ okay... but I'm still not understanding how you'll calculate a square root of A with that
+ Its just an insight what might help because we see some symmetries in A
+ What are u trying to convert A into with eros and ecos
+ Lets see
+ Plus won't there be multiple solutions
+ yes
+ Hm my bad
+ Oo
+ You could convert it to a diagonal matrix tho right
+ The reasoning I used to conclude this is faulty
+ And that could be done nicely later
+ marks were given for any one
+ yeah that's what I'd done
+ convert to diagonal, take square root there, then convert back
+ if B is a root, so is -B ð
+ And so is the one with all combinations of +/- in diagonal entries
+ But apart from that when we have a diagonal matrix is equal to the square of a matrix
+ ~is the one~ are the ones
+ for the diagonal one, yeah
+ Is it going to give us only 8 solutions if all diagonal entries are not equal?
+ not sure I'm interpreting it correctly but there are matrices with infinitely many square roots
+ What do you mean by convert?
+ find a P such that Pâ»Â¹AP is diagonal, say D
+ it is simple to find a matrix C such that CÂ² = D
+ This we can do in an organised manner by finding the eigenvectors right
+ but then, A = PCÂ²Pâ»Â¹ = (PCPâ»Â¹)Â²
+so taking B = PCPâ»Â¹ works
+ But can we show that upto the three signs the diagonal solution for B is unique
+ For B' I mean
+ is it ?
+ The transformed version of B
+ the D is not unique btw
+ He said only 8 solutions
+ Oh
+ D is also unique only up to permutation of the diagonals
+ I also said "iirc"
+ can confirm
+ What is D
+ okay let me check on old moodle
+ Diag
+ Can we in a simple way conclude only 8 solutions
+ uh maybe show that the square root of a diagonal matrix must be diagonal, then for each diagonal you have exactly two choices (assuming non-zero)
+ If you are asking for installing linux I didn't need to take any backup
+ I didn't take backup either
+ Upload ur files
+ Anybody dual boot?
+ When u restart ur computer does it ask u which os to use or directly goes to the top one in the priority order?
+ I had earlier installed ubuntu on VM but i messed up something in the terminal so I removed ubuntu from VM and now I want to start from fresh
+
+Earlier I was not able to increase window size and was not able to install g++ and text editor so I saw some youtube videos but it didn't help
+So someone using VM pls tell all the steps or recommend a tutorial
+ https://itsfoss.com/install-linux-in-virtualbox/
+ Sudo apt install build-essential terminal mein likhna hain. Terminal kidhar hain? Ubuntu mein
+ In terminal
+ Or easier still, right click in the desired folder and select "open in terminal " option
+ s++ filename is not working in the terminal ð any ideas what could be my fault ( I'm using the exact same procedure they used when installing simplecpp on Linux in one of the cs101 lecture)
+ Its g++ for c++ or c
+ For s++ u have to get the simplecpp src
+ Even g++ isn't working
+ Says fatal error for some reason
+ Are u compiling simplecpp files using g++
+ Actually they told to do using s++ but that doesn't work so I tried g++
+ From bodhi first get simplecpp files and set your system by watching the videos
+ Ok, thanks ð
+ Though these r old editions
+ In windows command prompt to change directory to Documents
+Both cd doc(Tab key press) and cd Doc(Tab key press) works
+
+ but in linux only the second one works can anyone suggest a way I can make the first way work too
+
+The diff is that folder starts with capital D and in linux we have to use Doc only then Tab to autocomplete
+ IMG-20210312-WA0005.jpg (file attached)
+Why the guest additions not able inserted in me
+ ```#include<iostream>
+using namespace std;
+class A {
+  public:
+	virtual void f() {cout<<"A::f\n";}
+	virtual void g() { cout << "A::g\n";}
+};
+class B : public A {
+ public:
+	virtual void f(){cout << "B::f\n";}
+        virtual void g() {cout << "B:g\n";}
+};
+int main (int argc, char *argv[]) {
+ A *ap;
+ B *bp;
+ A a;
+ B b;
+   ap = new A();
+   bp = new B();
+	ap->f();
+        ap->g();
+        a.f();
+        a.g();
+        b.f();
+        b.g();
+ //---------------
+
+ cout << "-----------------\n";
+
+   ap = bp;   // LHS variable type A*,  RHS variable type B*, compatible due to
+      // inheriatance, which defines is_a relation.. so assignment is allowed
+   a = b;
+	ap->f();  // variable type: A*, call permitted, object type: B*, call goes into B
+        ap->g();
+        a.f();
+        a.g();
+        b.f();
+        b.g();
+}```
+ Can someone tell why does a.f() and a.g() call functions of A and not B after a=b assignment is done?
+ ++
+ good question
+ also what does the "delete" keyword do?
+ It is the opposite of new. It frees the dynamically allocated memory pointed by some poiter.
+ Pointer.*
+ only variables get transferred
+ Because a is still of class A right?
+ A is a class with all methods virtual
+B derives from A
+
+ap is a pointer to A
+bp is a pointer to B
+
+After the 2 heap allocations by the new keyword:
+ap stores address of an A instance
+bp stores address of a B instance
+
+ap->f() will call A::f()
+bp->g() will call B::g()
+
+Now the magic happens
+After ap=bp, ap now stores address of a B instance (same as what bp stores). It can store this because ap is a pointer to A, and B derives from A.
+
+a=b (Now this is simply an assignment operator. The data of B is copied into A, but a still is an A object).
+
+Hence a.f() will call A::f()
+ap->f() will call B::f()
+ Notice at the end,
+
+ap stores address of a B instance
+bp stores the address of that same B instance
+
+a is an A instance with some data
+b is a B instance whose data has been copied to a
+ Are ap and bp pointing to the same address? No right as they are independent?
+ Yes they are pointing to the same address after the ap=bp line of code
+ a and b reside on different addresses though
+ so making changes using ap would affect bp also? like I edit one of the variables using ap and access using bp then the change would be reflected?
+ Yes. The changes will happen on the same region of heap memory
+ Let us say there were some extra variables in class B that were not present in class A. When we write a=b; that extra data is basically discarded, right?
+ I'm assuming it's the same case as in when the variables are named differently in the two objects, no change happens wrt to those variables
+ Try it and find out
+ Whats the command prompt command to leave the current directory?
+ <Media omitted>
+Are we supposed to explain these as well they are part of comment?
+ The space in between is somehow important ð¤¦ð»ââï¸
+ These will cause a compiler error. Ab socho kyu
+ Written in comments by sir ð
+ We're supposed to explain output as per moodle
+ Also, yes. This is what happens
+ Ah, thanks!
+ Not getting any output from these
+ Wait, but since none of the classes have any data does this mean that the statement a=b; is technically doing nothing at all?
+ On line 170 and haven't completed prog5.cpp...
+ What data is copied? Like... Every common variable still has the same value. A=B ka faida kya hua?
+ Main to bas 5-6 lines likh raha hu har programpe
+ Bhai mere 8 line ke observation hain, wtf
+ Just as an example, what have you written for prog1.cpp?
+ Suppose A had data members num1
+Suppose B had data members num2 (and num1 from the base class)
+
+Suppose a had num1 =4
+Suppose b had num1 = 2, num2 = 10
+
+After
+a=b
+a will have num1 = 2
+b will have num1 = 2, num2 = 10
+ In your code kuch nahi hoga because no data members exist
+ This is in prog10, wo tab dekhega hi
+ Koi ek observation PM kar na @917060361446
+ Hmm. Then what does this mean?
+ Won't num1 be over-riden here too?
+ A will declare member num1
+B will declare member num2
+
+B automatically has num1 and num2 as members
+
+a=b will copy b's num1 to a's num1
+ Suppose a had num1 =4
+Suppose b had num1 = 2, num2 = 10
+won't you also be overriding num1 ka variable?
+ Or in your case,
+
+A has member A::y
+B has members A::y and B::y
+
+a=b will copy b's A::y to a
+ We are never overriding num1 because we do not declare it
+ It is derived from base
+ If you declare it even after derivation from base, then your declaration will override the derived member
+ <Media omitted>
+How did we get 210 as v after we did a=b
+ The variables weren't even same\
+ Doing B(200) calls the base constructor and sets the base x to 210
+ Then a=b copies b's x(which is 210) to a's x
+ Right right I didn't realise instantiating B also calls constructor of A
+ B's y won't be copied to As y.
+
+B's x will be copied to As x
+
+B is guaranteed to have an x member even if you don't declare them, since it derives them
+ In first 6 program, sir had not delete it
+ Won't create an error if the signatures are different
+ Hmm yeah. Overloaded like a ð pizza
+ Isn't there some Resolution order in C++?
+ In prog7 the problem is bp is not assigned any object ryt?
+ bp = new B(); needs to be done before
+ Think about a similar problem
+
+Suppose A has a function f
+
+
+Suppose B and C derive from A
+Both now have the function f from base
+
+Suppose D derives from B and C
+
+How is D d; d.f() resolved?
+ What is there to resolve? It's only defined in A
+ See the thing is in c++, B contains A data. C also contains A data.
+When D derives from B and C, it has both B's parents functions and C's parents functions, even though the parent is same
+ It isn't resolved. Gives error unless you write B::f() etc. But if while inheriting A we write ```virtual public``` then no problem, only 1 copy inherited
+ Basically B has a function f
+C also has a function f
+(Both from parent)
+
+So there is a clash when D derives from B and C
+ Basically the best thing to do in such cases is try it out. The diamond inheritance problem is universal in OOP wherever multiple inheritance is allowed, but the resolution depends on the implementation, eg C++ resolves it differently than other languages
+ What does writing virtual public do?
+ Idk syntax ð¤·ð»ââï¸
+ Its something added to C++ specifically to solve the diamond inheritence problem
+ Inheritance is becoming a little too much now ð¥² so much complications
+ Inheritance is the source of a lot of complications amongst families as well
+ Lagta jyaada BB101 ho gya hai
+ "Abstraction" se bhar diya hoga
+ How to extract the label of a button ???
+ In FLTK
+ label() returns const char*
+ button->label()
+ <Media omitted>
+If bp is a pointer of parent class then it should save an address of a child class' instantiated object right ?
+ But here its showing error and when I used bp = new C it's shows no error
+ Is bp = &c(10) correct ?
+ how do we shut down the fltk window from the code? like it was exit(5) for initCanvas
+ window()->hide() is a possible option
+ That could only be written in int main(), right? and control would go to Fl::run for events so it won't be possible to quit the window when for example, count goes to 50
+ Just declare your window pointer as global
+ Is c the name of your class? Or instance?
+ Write window()
+ Not just window
+ I may have tweaked some of them to test other things
+ Maybe I should reinstall libfltk
+ I was using g++ for compiling
+ Should have used fltk-config --compile
+ I thought of one alternative.
+Inside the while loop
+```bool temp_boolean = f .eof();
+while(!temp_boolean){
+............
+temp_boolean = f.eof();```
+Now use print temp_boolean like we print normal variables such as n and count to get the value of f.eof() at that time (*assuming we have not moved file pointer before printing temp_boolean*)
+ haa you can do that, you can set the temp_boolean on the watch stack
+ Watch stack seems like a Visual Studio Code thing.
+I am using command line debugging with gdb cause debugging involved some big boy tasks.json stuff jo aukaat ke bahar jaa raha hai
+ haa like watch stack ke jagah you can print the flag in gdb shell
+ flag == just the variable in question, right?
+ https://www.cse.unsw.edu.au/~learn/debugging/modules/gdb_watch_display/#:~:text=Able%20to%20set%20a%20watchpoint,change%20throughout%20the%20program%27s%20execution.&text=watch%20allows%20us%20to%20stop,value%20of%20a%20variable%20changes.
+ you can set a watchpoint on the variable
+ Mouj ho gayi debugging mein. Print statements and errors seem so old school now
+ Btw kisi ne wo lab6( game wala) usme time wala figure out kiya kya? Making things move in time?
+ Agar object ko continuously move karna hai, toh handle function me condition ke bina implement karne se nahi ho raha kya?
+ Oh that works? What event is it handling but?
+ I didn't try but handle function gets called regardless of any event. We check the argument passed to call it(like, e==Fl_PUSH). But still lemme confirm
+ What is the difference between dynamic binding and function overriding?
+ I mean, till now , we have use dynamic binding only to override the functions, right?
+ Dynamic binding is just same as runtime polymorphism I think
+ Dynamic biding is the name given to the process where during runtime vtable is scanned for the deepest definition of the function
+ The compiler while producing machine code *already* knows which function you intend to call, for normal function overloading, and will produce machine code for that only
+ What's machine code
+ For virtual functions, it will produce machine code to traverse the vtable and determine at runtime which function to be called, and then call that function
+ But aint that called overloading
+ ?
+ Basically the code that you write is trash, as far as the cpu is concerned, it can't make any sense of it. It has to be converted to machine code to be executed by the cpu, and that is precisely what the compiler does
+ Yes. That is the normal function overloading, or "compile time polymorphism"
+ No dynamic binding
+ So compile time polymorphism for virtual function is dynamic binding ?
+ How to access machine code? And is it same as bytecode?
+ Its overriding not overloading right? Oveoading is same identifier different signature
+ And for non virtual its function overloading ?
+ *overloading
+ *Runtime time polymorphism
+ No. For virtual functions we can't do compile time polymorphism, we can't figure out which functions to call at compile time.
+
+That's why during runtime we traverse the vtable to find that out, and that is precisely what dynamic binding or runtime polymorphism is
+ Same thing really, similar concepts
+ So compile time polymorphism is that when you have finalised which function to call and dynamic binding is to finalize that function
+ ?
+ Same name different signature is overloading and the one concerned with inheritance is overriding
+ To put it simply, compile time polymorphism is finalizing which function to call during compilation
+
+Runtime polymorphism is finalizing which function to call during runtime
+ *with virtual inheritance
+ .
+ You can do compile time polymorphic for normal function overrides, you have to resort to runtime polymorphism for calling virtual functions
+ Specific difference between runtime and compile time ?
+ I thought both were same
+ Compile time: during production of your executable. You can call g++ main.cpp right now, and the process that results is the compilation, and during that process the executable is created, and all normal function overrides are finalized during the creation of this executable
+
+Runtime: when you actually decide to run your executable by doing ./a.out
+ Remember, compilation and runtime may not occur very close in time to each other, and may not even occur on the same machine
+ Thank you so muchð¥º
+ Example: when EA created fifa20.exe, they had to compile it using the compiler, on their computers. During that time all normal function overrides were determined by the compiler
+
+Now you, after a year of release of fifa20, decide to actually install and run it on your computer. When you click fifa20.exe, that's the moment the runtime starts. During runtime your cpu will actually traverse the vtable to find which virtual function to call
+ And specific utility for this distinction ? Like we could have already determined which function to call from vtable during compile time and then just execute it
+ No, that's the point, you couldn't have
+ Rather than deciding what to call during runtime
+ The user may tell what type of object it is
+ Because which virtual function to call depends on which kind of object pointer it actually is, which can even depend on which keys the user ie you presses
+ Like deciding levels and hardness of game ?
+ That way u would have to write lot of code if everything was static binding
+ Ugh, but yeah
+ The EA developer could never have anticipated which keys you will press a year later on, to determine which virtual function will be called
+ Oh got it
+ Its like player now decided which arena and level to play upon and that way the pointers are created and the respective virtual functions via runtime binding are decided ?
+ Basically on a rough level, anything that can be determined solely be inspecting the code, can be determined by the compiler at compile time
+
+Anything that depends on when the program actually runs, where it runs, the environment in which it runs, user input etc are properties which have to be determined at runtime
+ That can be one of the uses, yes
+ Makes sense to me now
+ What was the solution to the problem when a child class is deriving from 2 parent classes and both of them have a function which the base wants to call?
+ We'd discussed this here
+ I think it would throw an error and you would need to use parent1::(or other ) to resolve it
+ You mean child class wants to call right?
+ Yeah
+ so whenever virtual functions are used ,it is run time polymorphism ?
+ Yes
+ suppose class C publicly inherits class A and class B and both contain a function g.....class C does not contain function g ......then which g function will be executed when we call it using an object of class C?
+ It will lead to an error, u need to resolve as A::g or B::g
+ ok unless specified it will not execute u mean
+ Yes
+ Did chd class override it
+ *child
+ Yes obviously
+ No no wait
+ Ah thanksð
+ https://www.ibm.com/docs/en/zos/2.4.0?topic=only-ambiguous-base-classes-c
+ @919619222670 this is what gets it fixed
+ Damn u remember the error also
+ For the ambiguous class error
+ Just faced it bro -_-
+ Got it
+ Was the problem regarding file handling resolved? In my case, i am getting one number 'less' of i do not end with whitespace
+ .
+ <Media omitted>
+File handling.txt
+ Credits: Vendang
+ jinx
+ Though never seen one less...
+ yeah i read.... it but it doesn't explain my problem
+ Vending?
+ âï¸
+ <Media omitted>
+ IMG-20210429-WA0006.jpg (file attached)
+ why it is printing like one extra number at last
+ again, which virtual function will be called depends on what kind of address the pointer holds. the pointer itself can be of a parent abstract type, holding the address to a derived type
+ This message was deleted
+ That tends to give run time errors i
+ How ?
+ can you show me an example?
+ oh wait nvm
+ <Media omitted>
+This is from one of my _private_ documents, but it has been tested
+ that will give a segfault because the pointer is holding no address
+ nothing to do with virtual or abstract classes
+ Yeah and we cannot instantiate A
+ We can make it point to B though as u have done
+ Yes, but you can cast a B* to an A* and dereference it, yes
+ So for that not to occurs always while calling upon a pointer we should have it instantiated or pointing towards an object ?
+ Also here how both are same like in one we are typecasting and making by default a pointer of A
+But in second last line we are making the function values copies from b and then executing it in A
+ If p is a pointer to class C, and you call
+
+p->member,
+
+it will try to access the area of memory which p stores, which will probably be a garbage address, and the OS will detect that and stop the program and raise a segfault
+ because foo is a virtual function
+ <Media omitted>
+Why does this print derived::f?...will b not be considered as an object of base class?
+ Roughly, how it is decided which virtual function will be called:
+
+it looks at the pointer, and sees what *address* it stores. If it stores an address to base class, it will call function to base class. if it stores address to derived class, it will call function to derived class
+
+The pointer itself can be of type pointer to base
+ How to use labelled continue and labelled break ?
+ Yeah but not getting which is which here?
+ type is a reference to base, which is different than being simply a variable of type base
+
+If it had been nonsense(Base b),
+
+then calling nonsense(d) would instantiate a new variable, by allocating some new memory for base type, copy over the contents of d into this new variable, and that will be the parameter
+
+But since the signature is nonsense(Base& b)
+
+No new memory is allocated. b just refers to that same area of memory of d, which is the address of a derived type object
+ c++ has goto but it's like the sequel trilogy, officially there but as far as we're concerned, didn't happen
+ b->foo() //"->" ka syntax kya hota hain? like with the dot and * operator kaise karte hain ham?
+ When we assign a pointer of a derived class to a pointer of a base class, do the variables of the derived class also get copied?
+ Oh so what role does the type of a pointer have- the size that it can point to ?
+ Type of a pointer determines what functions/members is syntactically legal to access from that pointer
+ you can even fool the compiler by force casting an integer pointer to a class A pointer, granted, accessing any members can give you a segfault
+ on a lower level this is what happens
+
+suppose you have declared
+
+class A
+{
+int m1;
+int m2;
+};
+
+and in a function you have the statement
+
+a->m2 = 4; //a is of type pointer to A
+
+The compiler needs to generate machine code for this. How to do this? The compiler will notice that a is of type pointer to A, and thus it knows that whatever address a points to, 4 bytes after that should be a->m1, so it will generate the kind of the following assembly code
+
+mov (4)a, 4
+
+which is basically assembly for move the value 4 into 4 bytes after the address stored by a
+
+
+Once the binary code is created, and the executable is made, that's it. The cpu doesn't care what type what is, assembly language doesn't have any features called types or classes or members etc. all the assembly code says to the cpu is, go to a, go to 4 bytes after that, store 4 in there
+
+So only at a higher level does the compiler need to know the types and such just to keep track of how to generate the assembly code
+ Once the assembly code is generated, "types" and "classes" hold no meaning
+ Yeah but when the pointer type let say A* doesnot have a particular member function, then it shows error even if it stores the address for an object of B which has that member func. Why so?
+ Notice that if you do
+
+int* n = new int;
+
+A* a = (A*)n; //class A definition is per my above message
+
+a->m2 = 4;
+
+You can "trick" the compiler into compiling this, this is perfectly okay syntactically, even though it is not correct logically, since a doesn't hold an address to A
+
+Of course you will run into *some* kind of error when you try to run this code, now it's your turn think and tell me what kind of error, and why
+ Why is address of m1 4 bytes after where a is pointing to?
+ Segmentation fault hi aayega ig ð
+Ig its similar to
+
+int a[3];
+And we then by for loop assigned the values to a0,a1 and a2. Then let say the for loop also assigned the value to a[3] as I had written end conditions in a wrong way.... Then the compiler will pass it but run time error
+ Yes! It should logically give a segmentation fault, because you are accessing some memory you are not supposed to access
+
+Wierdly, when I ran it on my laptop, it doesn't give a segfault, that is probably because the operating system has pre allocated 4kb of memory on the heap to my program, and accessing that "illegal" part of memory is still legal according to my operating system, so it won't throw a segfault when I try to access it
+ I just noticed one peculiarity though.
+```cout << a << endl;
+cout << ++a << endl;```
+Here a moves ahead by 8 bytes in the address. This should not happen, right? It should move the size of int imo
+ Stack smashing is thrown if you allocate on stack, and try to access beyond the allowed stack region, yeah
+ #include <iostream>
+using namespace std;
+class A { // abstract class
+  public:
+  int m1;
+  int m2;
+};
+int main () {
+int* n = new int(2);
+
+A* a = (A*)n; //class A definition is per my above message
+
+a->m2 = 4;
+cout<<a->m1;
+} yeah. this worked
+ Ohh thats why for array....
+Did the above code written by you worked fine?
+ It depends on your compiler and how many bytes it gives to an int
+ Yes. Logically it is very dangerous and should never be written, but it ran fine simply because the OS had preallocated some memory so didn't realise it was illegal
+ I just checked with ```sizeof(int)``` and size of int is 4
+ Probably because the OS, while pre allocating 4kb for the heap, zeros out the heap
+ If you did this after you already have some allocations and deallocations, basically after fragmenting the preallocated 4kb, you would probably get some garbage
+ One question for today's exam, make an abstraction for clock and use it as a timer for the rest of the exam ð
+ It's working as expected then. One wanted the space 4 bytes after the start of allocation which was done for n using new to hold value '4' and the space at the start of that allocated heap memory to store 0. Hence there is no abnormality here.
+ <Media omitted>
+ ðððð
+ Don't worry if you don't get this stuff rn, all of this is part of your sem5 and you'll surely be exposed to a lot more lower level stuff then tl understand what's going on
+ a is a pointer to type A which is 8 bytes (2 ints)
+
+So as ++ is defined for that particular pointer, it moved it ahead by 8 bytes
+ Is this right?
+ Oh is a a pointer to type A? Then yes moving ahead by 8 bytes is expected
+ Oh okay yeah I was getting confused due to type casting from int
+ Has type-casting been discussed in class?
+ The memory page allocation  algorithm right? Memory is allocated in pages of 4kb or 8kb
+ IMG-20210429-WA0012.jpg (file attached)
+labelled break kaise kaam karta hain?
+ yeah! the OS hands out 4kb pages when needed, and then C++'s own memory managing code divide's it up and allocates memory on that page to you as you do new calls
+ Ye syllabus ma nahi hai na?
+ Ho toh bhi Cpp mai nahi hai
+ IMG-20210429-WA0013.jpg (file attached)
+interesting to see that new calls malloc internally
+ Oh sad to see, I never liked malloc, new always sounded much nicer ð¥²
+ why didn't you like malloc?
+ But ig malloc is more powerful
+ Btw where is this code? Inside g++ ?
+ C++ doesn't have ```byte``` numeric type?
+ isn't short 2 bytes?
+ Accha, but the casting doesn't work like a typical typedef does it?
+ bool *x;
+int y;
+x= new bool [y];
+What exactly does this piece of code do... And how?
+ what was the clarification??
+ class A{};
+class B{};
+
+int main(){
+A a;
+B b, b1;
+b1= b*a;
+}
+ Oh so * is not defined here for those b and a right?
+ Second error comes in condition of if na? Something like if(a=b)...
+ Gedit?
+ gdb works without vsc also?
+ The website that I gave runs and debugs online itself right?
+ Let say if a condition goes true, then I want to exit the window... mtlb game band hojaana chahiye, aur terminal pe you lose aajayega... ye game to band kaise karte hain?
+ What other reasons can be there for a segment, other than array index out of bounds? Pointer pointing nowhere?
+ Bhai since I have started this fltk everytime I get a runtime error than it would surely be a segmen fault ð¥²
+ Issue resolved. It was a problem with fltk, one of my objects went wayyyy outside the frame. So destroyed it at the boundary ð
+ In shapes2.cpp, how do the shapes get drawn when we initialise?
+ We never called the draw() function explicitly anywhere but still the shapes get drawn
+ The constructor of Fl_Widget does that for you, since u have inherited from it
+ Constructor of Fl_Widget calls draw of inherited function. So everytime I allocate memory on heap using new, the circle calls constructor of shape, which in turn calls constructor of Fl_Widget which finally calls draw(). But this draw should be the draw of Fl_Widget and not the draw we defined in bottom most class of hierarchy
+ ```#include <FL/Fl.H>
+#include <FL/Fl_Window.H>
+#include <Fl/Fl_Widget.H>
+#include <Fl/fl_draw.H>
+#include <bits/stdc++.h>
+
+#define BOW_RADIUS 50
+#define BOW_START_X 50
+#define BOW_START_Y 100
+#define BOW_ARC_MEASURE 45
+
+using namespace std;
+
+class MovingObject: public Fl_Widget{
+    protected:
+    double vx, vy; //velocities
+    int x, y; //coordinates
+    int w, h; //dimensions
+    public:
+    MovingObject(int x, int y, int w, int h, double vx, double vy) : Fl_Widget(x, y, w, h)
+    {
+        this->x = x; this->y = y;
+        this->w = w; this->h = h;
+    }
+};
+
+class Bow: public MovingObject
+{
+    public:
+    Bow(int x, int y, int w, int h, double vx = 0, double vy = 0) : MovingObject(x, y, w, h, vx, vy){}
+    void draw();
+};
+
+void Bow::draw()
+{
+    fl_pie(BOW_START_X, BOW_START_Y, 50, 80, -90, 90);
+}
+
+int main()
+{
+    Fl_Window *window = new Fl_Window(800, 600, "Game");
+    MovingObject* b = new Bow(100, 100, 100, 100);
+    window->end();
+    window->show();
+    Fl::run();
+}```
+ Can I tell a recurrsive function to directly return to main function without return to the called one
+ Is it allowed to ruin one of the prev lab codes nd then submit it as bad code?
+ Let say I am in the 13th cycle of the recursive loop , ab agar return kiya to , it will reach out again to 12th cycle and then code is like ki after returning to 12th it has to tackle some other code which will again send it to 13th cycle ð¥², Aur aise ye 12... 13... 12... 13... ka khel lamba jayega ð
+ Either throw an exception of some sort. Or keep an additional parameter by reference which is bool. Set it to false initially. The 12, 13, the 13th cycle will set it to true. Now make sure 12 calls 13 iff it is false. This way u r done
+ I did this only. I wrote a bad CS101 code. If TA asks I'll say check all my labs and tell me where I've used goto then I'll correct it
+ On github, if I have a public repository, can any random person commit to it?
+ But anyone can submit a pull request, right?
+ And for private repo?
+ https://en.m.wikipedia.org/wiki/Right-to-left_mark
+ https://www.infoq.com/news/2021/04/cling-python-interop/
+ there are other types of pointers?
+ yaha kya ho rha hai?
+ Cast right?
+ What is v?
+ theory of computer graphics?
+ Open GL ??
+ .
+ Another thing that is commonly used is memory mapping
+
+The device memory is "mapped" to some virtual memory addresses. Those virtual memory addresses actually do not correspond to any physical addresses (ie actual on RAM memory), but to the display device memory. That way our CPU can write to that memory using plain old mov instructions, but actually behind the scenes the hardware that is responsible for actually transfering data to on chip memory, will detect that memory as being mapped to the device, and will reroute the signals to the device
+ Device cpu meaning, the processor that is present with your, say display device, and is responsible directly for sending electrical signals to the display device pixel to light them up
+ Wowð¤© do you recommend and YouTube channels to learn more about this stuff?
+ Well, there's this youtube channel by Ben Eater. He's into electronics and stuff. You can gain a good insight into how stuff works behind the scenes if you go through his channel
+ Other than that, you can learn assembly. Start with MIPS. It's pretty easy. You'll understand the difference between high level languages like C++, Python and machine language, and you'll begin to understand what the job of a compiler actually is.
+ What if someone doesn't have OS ?
+ â
+ Wait what exactly happened to kudre? He has a machine with no OS?
+ Linux killed windows and Linux committed suicide?
+ You can I guess, just take a computer and wipe its ROM and hard drive with a magnetic field
+ How to connect to vpn from outside campus?
+ Later when the server comes back, attempt only the H5P
+ So we cannot return elaborate functions from functions in python?
+ So one place where C++ rocks ð¤ð¼
+ Though yeah it sure is faster and numpy is written in c++
+ Why do you think the standards force C++ to have one liner lambdas?
+ Why not. Function ka name return kardo
+ Not necessarily ki lambda hi return karna hai
+ You can pass named functions arou d
+ Around*
+ Oh we can define a function inside a function and return it ?
+ Not necessary to define it inside
+ It won't be able to take params from my outer function then...
+ yes it can, some syntax exists to do that I'm sure, I don't remember the exact syntax
+ or you can return a lambda calling the outer function with some params filled in from the inner function
+ Hmmm. Not that I am using it anywhere. Just curiosity
+ It's because in Python, whitespace actually means something whereas in C++, whitespace is ignored
+14 - Vedang: Btw guys, anyone familiar with web scraping using python? Pls dm me, I need some help. Basically I'm using BeautifulSoup4 , but before that I need to access webpage html, but not the whole of it...
+ Existing modules like requests download the whole html , and no thank you, my website is too big...
+ I don't think that can be done. The request is sent to the server and it sends the entire content. I guess it's left to use to use the parts we want
+ What part of the webpage html do you need to access?
+ Use regex to parse html ð
+ Obligatory link
+https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags
+ What the heck is this acceptable answer?! ð
+ Fun fact, you can do an objdump on your executable to see the various parts that make it up
+ It's something the c library uses to indicate end of reading of file
+ In this in the first answer I dont understand how x carried to the next iteration. Isnt it destroyed as soon as its scope ends?
+ It's probably that the file stream will still return the last read character upon hitting eof
+ Yeah its scope has ended. But the first answer says that and it is heavily upvoted...
+ Probably something like this
+
+Stream reads 10. Returns 10. 
+Stream reads 20. Returns 20. 
+Stream reads 30. Returns 30.
+Stream sees file has ended. Uh oh. Eof flag raised. Returns 30.
+Loop sees eof flag raised, so ends
+ He either means this or they're a bunch of idiots, which also might be possible
+ fstream has a whole memory resident buffer. All streams do
+ Ohk
+ It will have a pointer to the location next to be read in the buffer
+ That pointer obviously can't move after the end of file ig
+ Aisa hi kuch internally ho rha hoga
+ Ohk it gets jammed there. Sortoff. So if I hadn't checked for eof(), it would have kept printing the last element ð¤
+ Can any Windows user please do me a favour by sending a text file with just two lines of text? The text can be anything. Something like:
+Hi
+Bye
+
+Works
+ Are you using a Pentium Pro processor?
+ <Media omitted>
+For some reason, these strings are in the executable
+ Java executables are not executables for your machine
+ Java executables run on the JAVA Virtual Machine, or JVM
+ so they are written in a high level assembly language, which is tailored specifically for JVM
+Usi ke liye JVM ke lie helpers hongi ye
+ Code is put up here BTW : https://github.com/quantumcoder121/Calculator/blob/main/Display.java
+Go and have a look if u want
+ yaah either way i write ona sheet then throw it away until and unless i have to continue the same question then throw both away so i have space on table and if i cannot upload in simul than i will have to arrange them too before submitting
+ Is ```input()``` giving you problems?
+ So you just have to dinsome post processing to separate the different parts
+ Give me a concrete example
+ But the best thing about python is that there is no ```;```
+ Each programming language then takes a problem and solves it in its own way
+ Out of curiosity, what was your approach?
+ Vs code acha hai n?
+ My experience with programming is zero beyond cs101, so I am also an ultra Pro max noob. Can someone share their experience of how they started with CP? And what is an optimal way to get better at programming? Any help is appreciated
+ If you have seen and practised cs101, then you pretty much know the basics. So, you could start with solving problems on CC searching with the relevant tags like array, strings etc.. I personally think that hackerrank probs are a little up level. If you want to learn something new, go through ds algo for arrays or matrices
+ Sort the probs on CC on basis of most submissions
+ For competitive programming people still use c++ most of the time because it's much faster
+ Keep an array of long longs storing every 9 digits of the result and then implement multiplication on this
+ Using the usual carry process in mult
+ The 9 could possibly be changed too
+ U hv to store every number as quotient and remainder with some suitable large number I think
+ cpp?
+ You can think of it as saying that the vector has ints. But that's just an idea to have. To know more about it, read up on Templates in C++
+ What is VLA?
+ If you declare ```std::vector<int> v;```, then the type of ```v ``` is ```std::vector<int>```
+ There is ```ArrayList<>;``` in Java which is like vectors
+ ð I think u misunderstood his question
+ Anyway there's ```LinkedList```
+ In Java ?
+ Yeah. You don't know? ð¤¯
+ No was not knowing
+Thx for the info
+ Time limit exceeded?
+ One tip: At initialisation of the vector itself, if you have a rough idea of the number of elements you'll be storing, then set the capacity of the vector to that number
+ If you give enough capacity at the start itself, then many heap allocations and deallocations won't be required
+ Using linked list won't solve the time problem ?
+ Well, "you traverse across them" implies that that's the only way... so ð¤·ââï¸
+ Technically using push_back() is faster than preallocating capacity to a vector...
+ How can that be? If we exceed the current arrays capacity, doesn't it reallocate to a larger array?
+ Btw is knowing the inner implementation and working of all such things actually reqd for CP?
+ It uses move constructors instead of copy constructors. So for things like ```vector<string>```, ```push_back``` is faster
+ I am trying to understand why loop variables leak out in python and came across this post: https://mail.python.org/pipermail/python-dev/2005-September/056677.html Can someone help me understand why this makes it faster. What does it have to do with namespace creation and access
+ If the set has only one member then that means that answer is 0 because every difference is same the n m can be very large
+ My solution was a bit complicated...
+All +ve differences and -ve differences (between consecutive terms) must be equal otherwise return -1 (no fixed value of c)
+If the difference is of only one type (say +ve) and all differences are equal (between consecutive terms) then we get an AP and m can take any value, else return -1
+If the difference between any 2 consecutive terms is 0 and it is same for all pairs, then again m can take any value, else return -1
+Finally the value of m obtained must be greater than every element in the array (ai), if this is false, then return -1
+Hoping that I didn't miss any other boundary conditionð
+ Live cells dead cells?
+ TEM and SEM for dead cells
+ What's the use of studying about living things when u die in the process
+ This seems like a clear contradiction. Why is it?
+ TEM SEM only ded cells
+ All sorts of Light Microscopy can involve living cells
+ There have been matching questions for Virus to disease
+ Dont know about the cell envelope part
+ <Media omitted>
+BB101 Mid Sem Mock-1.docx
+ <Media omitted>
+BB101 Mid Sem Mock-2.docx
+ Mock quizzes with the answer key
+ Module 2 quizzes uploaded anywhere???
+ <Media omitted>
+MCB2 .pdf
+ D1-D2
+ Module 1 quizzes ?
+ <Media omitted>
+Quiz RP_MCB2.pdf
+ IMG-20210427-WA0035.jpg (file attached)
+in which lecture was this taught?
+ G1 phase Sphase of G2 phase me kya hota hai
+ G1: growth
+S: DNA content double
+G2: preparation for division in other organelles
+ do we need to memorise each nd every product of C3 cycle
+ One chromosome is one tukda
+ IMG-20210427-WA0037.jpg (file attached)
+Meiosis I pe 3n or 2 ke end me 6n hona chahiye na?
+ Hn to last me to 4 tukda bana na?
+ They were asking DNA content per cell
+ After meraphase it becomes 2 daughter cells
+ Abe pr chromosomes toh badhe nð¥²
+ To/cell chromosome hai kya
+ Anaphase mai hai n 4 tukda
+ 4 tukda = 2 tukda per cell
+ Kya banau ð
+Telophase ke baad jab cell ke do cell banenehe toh each will have half DNA
+ Both modules?
+ STK-20210427-WA0040.webp (file attached)
+ He is just extending the set of naturals
+ Connected across the gel
+ gel ?
+ Isn't the dna negatively charged?
+ so?
+ whats gel here?
+ Yes so longer the chain closer to the +ve electrode right?
+ Then it would be the one closest to positive electrode
+ Yes
+ <Media omitted>
+How is this even related, pathogenic/non pathogenic statin relation with srk , wtf??
+ ~Srk plays double role like the bacteria~
+BB sucks
+ Just a medium for strands to travel, neither positively charged nor negatively
+ No coz longer chain will be inhibited more by the medium right?
+ But donât higher charges have greater mobility?
+ Shorter chains is smaller so moves farther
+Since DNA is negatively charged the shorter one will be closest to +ve electrode
+ It has higher mass with charge
+ +
+ There was an ambiguous question in MCB1 Quiz about whether or not RT-PCR could be used for DNA sequencing, right? What was the final correction? Could it be used or not?
+ IMG-20210427-WA0058.jpg (file attached)
+Is slide me kuch padhne layak hai?
+ Both are differently labelled as green and orange
+ So can you tell me end result?
+ More red implies more cancerð¤·ð»ââï¸
+ Each tray is filled with genes corresponding to different features
+ The ones which have more cancer cells than normal bound to it show that these features are expressed for in cancer cells
+ RT-PCR is not a sequencing method na
+ only Sanger is sequencing method
+ BB tupor ðââï¸ðââï¸ðââï¸
+ Location decided by ends of gene you wanna multiply. Length between 18-28 nucleotides. It should have low GC content.
+ I think it was said 50-60 percent GC in slides?
+ Thats the way restriction enzyme identifies where to cut.
+ Thats like max limit...
+ Not too much GC is actually better
+ Hm got it
+ Is the reason important?
+ For exam?
+ The annealing temperature will become too high and then it wont work properly with TAq polymerase.
+ Guanine
+Cytosine
+ A = T
+ Why do u think cells need energy and nutrition
+ It takes the material for division over the period of its growth from outside
+ Oh wow
+Thanks for enlightening me!!!
+ Go sleep, start studying in the morning with a fresh mind
+ But why u troll með¤ð¤. I have a disorder which impacts me very heavily whenever I'm fooled or trolled by someone
+ Oligomers?
+ Small length polymers
+ Oligo T primers are small strand of nucleotides with T bases
+ Is this solution for Q5 correct?
+ I'd call E_i as elementary matrices
+but yeah looks fine
+ oh wait
+ no it's completely wrong
+ (virtual chocolate to whoever gives the reason)
+ Oh
+ Ooofð
+ F
+ ð
+ This message was deleted
+ This message was deleted
+ wrongly
+ how does that fit
+ This message was deleted
+ huh no?
+ This message was deleted
+ Does it not?
+I should delete then...
+ But he has way too high of a tipping point
+ Wait wut
+ Lol
+ Address him as god, best.
+ Hmm yeahð
+ You have to be like next level demanding to get that reaction from him imo
+ It doesn't, but this isn't the group to discuss why
+ Yeah I am not discussing thatð
+ My bad
+ no I meant that what's the reference you're going for
+ _Entitlement_
+But yeah not relevant to this groupð
+ oh were you referring to the "Entitlement" post?
+ ah
+ this isn't that lol
+ the italics was to convey I'm just kidding around
+ Ohð
+ I have actually seen that phrase before
+ same
+ ++ð
+ Where exactly was it
+ Wot? I know another method, we're talking about why mine is wrong
+ I mean it's a common phrase I think
+ Oof. I thought I'm next in line for the kicc
+ not reading it but it's wrong
+ okay before it gets too much
+ *Q4
+ Oh why tho?
+ Noooooo
+ lol
+ lol I'm glad I can't be kicked
+ A simple way would be to see that for AB the columns are linear combination of those of A which are again a linear combination of r1 columns of A(r1 is rank of A). Thus a set of columns of AB of cardinality>r1 would be linearly dependant
+ So rank of AB r<= r1
+ That'd be @919886135500
+ ð
+ now you're also bade log ð
+ Lol ð
+ Biggest achievement in IITB lol
+ Define bade log
+ admin of this group
+ Ohk
+ Why is kaddy admin?
+ Why not
+ ðð
+ You should also be admin. You also bade log
+ Bade log
+ Admin is superficial position. The real bade log is just aryaman jið
+ Yeah
+ This message was deleted
+ ð¯
+ Thank God he didn't say : _I'm not your à¤à¥_
+ ââ
+ _I'm not your à¤à¥_
+ ð
+ Then how u join iit?
+ Kic
+ oh my branch is actually one you _can_ join without JEE
+ Wait really ?
+ nice
+ But did u join without jee?
+ yes
+ kvpy?
+ olympiad
+ Inmo
+ Ah ofc
+ ohh
+ Inmo?
+ no, but I did join without being your à¤à¥
+ yes I think
+ Oh
+ IMOTC precisely
+ Lul
+ Bruh
+ http://www.math.iitb.ac.in/Academics/bs_programme.php
+
+can see under "Entry"
+ ð¤¯ Didn't know this, cool !
+ A is a m*n matrix and B is a n*p matrix how to prove that rank of A*B is <= min(rank A,rank B)
+ show N(B) â N(AB)
+conclude nullity(B) â¤ nullity(AB)
+use rank-nullity to conclude that rank(AB) â¤ rank(B)
+
+use transpose to conclude that rank(AB) â¤ rank(A)
+
+conclude
+ Got it thanks
+ anytime
+ This message was deleted
+ This message was deleted
+ No
+ And u better not ask in *this* group
+ This message was deleted
+ This message was deleted
+ This message was deleted
+ In any group
+ Except this
+ This message was deleted
+ Bruh
+ ?
+ Wot hepan ð
+ ++
+ @917073966630
+ This message was deleted
+ Nothing *
+ aw
+saving others from a fate you once suffered
+ ~once~
+ only once in this group ð
+ Oh
+ STK-20210318-WA0069.webp (file attached)
+ No that is not true
+ Can u clear then pls?
+ I did
+ yes, thanks
+ even in the question before that
+ IMG-20210321-WA0006.jpg (file attached)
+Do I get a virtual chocolate ð« if I share solution for bonus part?ð
+ lol yes sure
+ Ok, buy it by the time I right it outð
+ I'll bye it by the time you right it out ð
+ ð«
+ ð
+ yes
+ yes
+ This message was deleted
+ oh sorry, it should be + everywhere instead of â
+ thanks!
+ Syllabus is only upto lecture 6 right?
+ Yeah
+ okay
+ Hmm
+ This message was deleted
+ This message was deleted
+ what
+ This message was deleted
+ <Media omitted>
+ why am i so dumb
+ happens
+ thanks
+ anytime
+ Ohh
+ No
+ yeah
+ This was fun
+ Meet ended lol
+ There is no secret ingredient
+ Have good internet connection
+ Have a good internet connectipn
+ ð
+ Sir was giving tip through an example
+ <Media omitted>
+ Jinx
+ Why people worried so much about tip, relax ð¥²
+ Stop spamming here
+ Why?
+ it would behoove you to give the example
+ Ono
+ Sahi me ??
+ because otherwise you shall be removed
+ Are nahið¤¦ââï¸
+ ð
+ Will discuss after classð¥² i have missed a lot till now
+ This message was deleted
+ @919886135500
+ I will check again , leave it
+ Thanks
+ Anyone
+ If you want to understand it rn then watch the recorded lecture
+ why not
+ All confusion resolved
+Thanks a lot
+ anytime
+ That is very longð¥´
+ This message was deleted
+ 6.5*
+ right
+ ++
+ 7.5?
+ Lol
+ XD
+ Wowwie
+ But no ;
+ STK-20210323-WA0027.webp (file attached)
+ Yeah..okð
+ ð
+ <Media omitted>
+ .
+ F
+ F
+ @919886135500
+ Can we actually do that?
+Including the stuff we don't know
+ 8 iirc
+ Yeah nice
+ Still not that easy
+ Yes that's true
+ hmmmmmmmmmmmmmmmmm
+ No
+ This message was deleted
+ Pâ»Â¹AP = CÂ², that is
+ correct
+ Ok
+ scroll up
+ I still can't find where it was defined
+ .
+ IMG-20210323-WA0028.jpg (file attached)
+indeed
+ Ok thanks
+ @918939451120
+ Oh
+ That's fine
+ also lol this was a quiz where we had four codes but the answer key was same for all
+ I'm talking for a given D
+ What's the point then lol
+ If someone copies they succeed
+ we didn't know a priori that only one answer key ð¤ 
+ ?
+ Someone won't copy in different set
+It's big bren strategy ð
+ Waise tum sab ne windows ke back up kidhar liye aur kya kya liya back up mein?
+ ++
+ Bhai phir kismat se bach gaya tu nahi to udd jaata hai mostly installation se
+ ð
+ Or did you apply any other solutionm
+ Mera bhi nahi uda
+ Idts
+I Installed it on two pcs
+ Two diff laptops?
+ One computer and one laptop
+ Ohh cool
+ U could use IITB G Drive
+It has 1TB storage
+ ohh great and backing up whole storage right?
+ Yh
+This could be the best time to delete all junk  also,donât upload them on drive
+ How to take backup
+ IITB GDrive has unlimited storage, not even 1TB lol
+ IMG-20210310-WA0021.jpg (file attached)
+ Yes
+ Yes
+ Yes
+ I'm hp pavilion. I can't seem to set the legacy order in the BIOS settings.
+ No need for that
+ I am using Virtual boxð
+ Is it fine
+ There r YouTube videos available for uefi as well
+ ig yes
+ Ook then fine
+ I didn't initially then I changed the settings
+ It*
+ It asks you but if you don't select anything it chooses the one on top sometimes
+ https://youtu.be/dsVUVCOM3pw
+ See if this helps
+ @919602771596
+ I'll do that thanks ð
+ Not sometimes it does so after 10sec
+ Please help !!
+ I used this
+ https://forms.gle/ukLGkWZokUAAogx17
+
+Kindly fill this Gform *immediately*. It is being circulated on behalf of the Prof to know whether everyone has installed Linux. *This is important*
+ https://youtu.be/w8hI4VdFV78
+
+I used this ...
+ Thanks ðð
+ This message was deleted
+ Ctrl alt t
+ Ctrl+alt+T
+ Both methods worked, thanks! @919100172507
+ IMG-20210310-WA0065.jpg (file attached)
+Um... Should this appear?
+ type y and then click return
+ This is normal
+ I finally did install Ubuntu. Now what else has to be downloaded?
+ G++ compiler
+ Oh right! I downloaded BombSquad firstð¤¦ââï¸.
+Anything else?
+ Let me know how to run a file that's not in desktop once you're done
+ Use cd command to give path
+ cd Desktop (enter)
+cd Foldername (enter)
+ ð
+ . Do this
+ Ya I even did that
+ Fatal error means g++ is installed ð
+ Can you send the full message?
+ Image
+ IMG-20210311-WA0011.jpg (file attached)
+ Yes
+ I did that but I'll check once again
+ The simplecpp files must be present in the same directory in which you are compiling
+ Yes I opened the terminal in the same directory
+ Replace include<simplecpp> to include<iostream >
+ IMG-20210311-WA0012.jpg (file attached)
+All the files in the simplecpp folder loke lib and src here must be in the directory so copy paste them from the simplecpp folder
+ Things like canvas won't work then
+ Canvas isnt working even using simplecpp for me anyone knows how to fix
+ Yes that works
+ And ```using namespace std;```
+ Why you here
+ Even tho I put them in the same folder using simplecpp header file it's not getting compiled
+ Check if their is s++ file in /bin if not then reinstall
+ S++ also is working now
+ Only simplecpp header files are having this problem
+ I didn't have this problem on virtual box but i am getting it on dual boot apparently the libsprite file in lib is failing to be extracted
+ What IDE are you guys using on Linux?
+ IMG-20210311-WA0038.jpg (file attached)
+What is this error ??
+ U need to be in the folder/directory in which your .cpp file is
+ How did you make VM full screen
+ Most prabably cd Desktop and then g++ command shall suffice
+ If file is on desktop
+ ++
+ Else do cd foldername also
+ .
+ .
+ See the last part of this video
+ Thenk
+ ðð¼
+ 1615438946435.pdf (file attached)
+1615438946435.pdf
+ 1615438946413.pdf (file attached)
+1615438946413.pdf
+ STK-20210311-WA0057.webp (file attached)
+ Probably u can't do that in linux
+ Cause then u can have a folder named document and can open that seperately
+ The first one works only if there isnt more than one folder starting with doc or Doc in windows also
+I am asking fr this case only where only one folder starting with the initials
+ https://www.google.com/url?sa=t&source=web&rct=j&url=https://m.youtube.com/watch%3Fv%3D5_fluJuJc6E&ved=2ahUKEwjWyenS_anvAhUDU30KHU5pAYwQ28sGMAF6BAgFEAk&usg=AOvVaw0J9NfxJkJqEyUXYeGPpzxK&cshid=1615525580503
+ I also faced a similar problem
+ This didn't help either
+ I also faced a similar problem but then I removed the virtual box and uninstalled everything
+ So ultimately changed the display settings. Any other way?
+ Then?
+ Same after doing what he did in the video you have to insert virtual drive again
+ Watch this video
+ It has a something written in description, after typing that in terminal everything works fine
+ Then, again i have to add linux into virtual box
+ Then this also used internet
+ I removed linux from virtual box and installed it again
+ No don't delete the iso file
+ I had lost 5 gb till now
+Due to this
+ Means i can do it without internet connection
+ U will need internet for downloading essential apps ð¤·ð»ââï¸ð¤·ð»ââï¸
+ Download the iso once only then while installing do have net cnction as it will download some apps automatically
+ Can someone help ..i installed ubuntu but now i can't see windows 10 in the grub menu
+ Can you see Windows Boot manager?
+ Yes
+ Thats windows
+ Just click on that
+ On clicking it shows error:command failed
+ Thats vague, it works for me
+ Maybe try something from here: https://askubuntu.com/questions/217904/unable-to-boot-into-windows-after-installing-ubuntu-how-to-fix
+ Thanks i'll try
+ if (argc < 2) {
+	cout << "usage: no_of_tries\n";
+	exit(1);
+ };
+ why is there a semi-colon after the if block
+ need not be there, but doesn't matter
+ ~matter~ affect compilation
+ oh okay, thanks
+ IMG-20210313-WA0038.jpg (file attached)
+In this, when i tried to compile with gcc compiler, it gives error
+ Whilenon using g++ compiler, it print result
+ Why is it happening?
+ this is a C compiler and the code you have written is C++
+ this however compiles considering the code as C++ only, so it works
+ ++
+ Ok,
+This gcc compile c program
+And g++ c++ right
+ Yes
+ Ok thanks
+ For graphics, should i have to download graphics installer
+ Anyone suffered ' No adaptor found' / unable to connect to wifi type problem on ubuntu 20.04 ?
+ Yeah
+ In dual boot u got ig?
+ Hmm
+ Disable fastboot on windows ,this happens bcoz u started ubuntu after shut off windows u needed to start ubuntu while restarting windows
+ But when I restarted, i worked...but i am afraid that it might not happen again
+ So like i shut-down the windows...and after some time i started again...then it will cause that problem?
+ ++
+ Vedang had explained in class chat
+ Oh yes I remember! I was busy making a meme on him then ð
+ Rwitaban is writing out a long message let's see what he has to say
+ nice meme
+ Petition to make Rwitabans tips on this group into our class slides
+ Thanks a lot man ð
+ Thanks got it !!
+ Ok thanks!
+ @917060361446 try it and tell me also please
+ This message was deleted
+ On linux
+ cd -
+ Yes, thus is what happens
+ Go back to the parenr?
+ This message was deleted
+ cd ..
+ ðð»
+ cd .. (prev directory)
+cd ~ (home directory)
+ ðð»
+ ðð»
+ Thanks
+ So don't explain
+ Yes
+ See prog10
+ Really going to need extensions for this lab...
+ its till 6 pm alreayd
+ already*
+ Yeah, that's not going to work out, I have NSO today
+ Itna kya likhna hai tujhe?
+ ++
+ Wtf itna kitna likh rahi hai be
+ Wtffð
+ Tu itna diligently likh raha hai jaise sab TA yahi kaam mein lagne wale hai
+ I'm purposely writing each small thing on a new line to increase number of lines
+ Main iske half mein 8 programs likh chukað¤£
+ ++ but now I'm curious what he has written
+ @917060361446 Batao bhai
+ Diligently likh kar bhi 170 nahi aa payenge bro
+ ðð¾ââï¸ðð¾ââï¸ðð¾ââï¸
+ Oh
+ To fir words bata @917060361446
+ Word count kahan aata?
+ Cs peepsð
+ ++
+ But mujhe DM kariyo
+ Bhai pehle likh lun, phir pura document hi kar dunga, abhi tine crunch chal rha
+ Sure
+ Star this message, Pulkit
+ Apna kaam khud kare
+ Bharosa hi nhi hai ðð
+ I already did it
+ <Media omitted>
+Acc to this, shouldn't this give 200 in the last lines?
+ To mujhe kyu bol raha haið
+ @917981189752
+ +++
+ BTW notepad pe nahi aata, you could have just copied on word and checkes
+ Arey you are forgetting one thing
+
+B already has the member y from A. Why declare another data member named y? That will override the base class members
+ To print the base's data member in B, use A::y
+ ++ same doubt
+ Oh! I think get it.
+ This message was deleted
+ indeed
+ <Media omitted>
+You mean this ,right?
+ Yes
+ ð
+Thanks
+ oh
+ thanks
+ ð
+ Usse kyun tag kar raha hai fir
+ ðð
+ Hain??
+ This lab had a very bad impact on Pulkit
+ Abbey ð
+ @917981189752 Tumhe samjha kya?
+ Nai nað¤·ââï¸ð
+ Chal be jhoota
+ Khud apne aap ko tag karta hai jab bhi ð wala emoji dekhta hai kahin
+ ð
+ Prog7,8,9,10 mai sirf output kudh sai likh kar match karwana hai na
+ Kya aaya ye bhi ig
+ *kyu
+ Output guess karne ki koshish kar, fir explain kar jo aaya wo kyu aaya
+ Arey bhai ek program ko à¤¸à¤®à¤à¤¾à¤¨à¥ mai 20-25 line lagaiga
+ Kya woh check karaingai
+ Mai likhtai likhtai pareshan ho gaya
+ BTW prog7 has an error to wo bhi explain kar denað
+ Kahan last two para
+ Segmentation error kyu aaya 7 me
+ Sab kuch main hi bata deta hu
+ Koi batayoð
+ Kyunki bp create nhi kiya gaya hai
+ Also last two para hi mein ek class C ka definition hai aur ek main haið
+ Ooh ok
+ Nhi bhai, mai sirf confirm kar rha tha
+ aur 8th ka output kaise aaya?
+ when I do ap=bp without doing delete ap; first would it create any error
+ (assuming ap = new A(); has been done
+ Should be no
+ How does B have variable x if it was declared as private in A?
+ <Media omitted>
+We must call constructors in heirarchy is it?
+ It can't access x, like calling bp->x will give error, but it is still defined as it is a part of the super-class
+ This message was deleted
+ Can we change colour or make text bold in gedit?
+ This message was deleted
+ Not allowed
+ Oh :(
+ Gedit = linux's editor right?
+ Yes
+ small letters
+ <Media omitted>
+Moodle submission ded?
+ I just submittedð
+ To change color go Î -> preferences -> font and colors
+ When we write a=b, will all of a's functions get overridden by b's functions. a is the base class and b is derived
+ It is not happening that was
+ Its raining here, maybe something due to that
+ That to both of them are objects
+ Refer this @919790430198
+ Thanks
+ Time has been extendedð
+ any suggestions about my1.cpp and my2.cpp
+ geeks4geeks se chhap lo
+ +1
+ Search for inheritance page of g4g
+ Thank me later
+ wahi socha hu thanks for vote of confidence
+ STK-20201230-WA0048.webp (file attached)
+ Just to be clear, I'm not copying it straight away, I'm making enough changes to get past any plag checks
+ you're not being accused of anything bruh
+ Nor am I defending an accusation, I'm saying it would be stupid to copy paste directly
+ Obvio bro
+ if a class D inherits 2 classes, B and C, both having a function f(), then if we make instance of D(say d) and do d.f(); which one gets executed?
+ Creates error
+ Have to write B::f()
+ Or C
+ Like d.B::f()
+ But yeah
+ Beta>Baap. But if 2 baap then no priority
+ Yes
+ Thnx
+ Correct!
+ @919560496948
+ I am asking what it does, not the syntax
+ https://en.wikipedia.org/wiki/Virtual_inheritance#:~:text=Virtual%20inheritance%20is%20a%20C,inherited%20by%20grandchild%20derived%20classes.
+ ððð
+ This message was deleted
+ ð Nice
+ Kitna gyan bhara hai in chand panktiyon mein,Wow so much wow.
+ May be political science too
+ ++ð
+ VID-20210412-WA0015.mp4 (file attached)
+ did sir tell about any improvement for this lab
+ +1
+ STK-20210325-WA0006.webp (file attached)
+37 - Dhruv Rambhia: Hello there, young man
+ I smell RG
+ Word count daala, 2683 words hai... Himmat hai?
+ Vaise it's somewhat understandable now ig, I thought we had to submit 10+2 observations.txt, had to combine them all in the end
+ Haa, ye karlo pehle
+ Tujhmein bhejne ki himmat hai?
+ RG -> ð¥
+ Oh bc, mera toh 200 tha shayad, bhej bhai ab toh bhej de
+ Itne words hai tere kal ke lab me?
+ Ruk submission download karne de...
+ Tujhe itne words aate bhi hain?
+ Haan, excluding the programs...
+ Can anyone access Moodle now
+ No
+ Jyaadatar the, dynamic aur abstraction hi hai
+ Oomaaiigot
+ Y
+ Moodle kab khulega?
+ Does any body remember the deadline for puzzle game submission?
+ Asking for a friend
+ Today 10 pm
+ Thanks
+ lol
+ 4:30
+ This message was deleted
+ Itna kya observe krliya tuna ??
+ ++
+ Ok thanks
+ What??
+ Don't put (10)
+ Yeah it works now any reason ?
+ You aren't calling a constructor again. The object is already created
+ Ohk ðð¾ thanks so when ever o use c(10) its like calling a constructer for object c right ?
+ *i
+ Yes
+ ð
+ ðª
+ tried it
+ didn't make a diff
+ What's happening instead?
+ <Media omitted>
+ Works perfectly, thanks!
+ It was an instance
+ Can anyone send the 5 programs under lab4 that sir uploaded on moodle last week
+ You deleted this message
+ <Media omitted>
+1window.cpp
+ <Media omitted>
+2button.cpp
+ <Media omitted>
+3buttonlabel.cpp
+ <Media omitted>
+4clickcounter.cpp
+ <Media omitted>
+4handle.cpp
+ Thanks ð
+ IMG-20210413-WA0011.jpg (file attached)
+What is this error about ?
+ Not talking about the warning
+ Undefined reference: Function defined but not implemented anywhere
+ IMG-20210413-WA0012.jpg (file attached)
+For reference , I got the same message when I tried compiling 4clickcounter.cpp sent by Shubh
+ IMG-20210413-WA0013.jpg (file attached)
+can u explain wt. is the error here
+ at the last only 1 error is there
+ but not getting wt. is the error
+ can u guys able to open moodle
+ nooo
+ can u say why that error arised
+ I am not very sure , but seems like you have used something else in place of 'l' while defining constructor of MyButton
+ puzzle_15 :: puzzle_15(int number) : MyButton(x,y,w,h,l)
+ in code this is that line
+ It runs perfectly when I compile it
+ IMG-20210413-WA0016.jpg (file attached)
+ ð¤¨
+ Hmm
+ Oh lol , I found the problem
+ yes
+ exactly
+ Kiya ho to pls batao ð¥º
+ Arey bhai jaan nikal gaye,ek baari bio ka paper dede kal discuss karlenge, waise hua nhi hai mera but kaafi kuch kiya hun uss time waale chiz ke liya
+ Segmentation err aaraha hai
+ ðð»
+ ++ please anyone ð
+ Try add_timeout and repeat_rimeout function as suggested by Akshat before
+ ++
+ I don't understand what do you want to do, but in my game ,I wanted to move the bullet, so I just wrote it inside handle with wait() to see it
+ <Media omitted>
+ This message was deleted
+ Overriding is redefining new definiton to a function which is already defined in abstract or suber class
+ ð
+ No, normal function overriding is done at compile time
+ It's not defined in A again
+ It's not overriding then
+ So if the definition is at the deepest level then it should executed from the child class
+ ?
+ Yes it is inheriting from B and C. It's not redefined in A
+ Yeah, it would throw an error:"request for member g is ambiguous"
+ .
+ IMG-20210429-WA0010.jpg (file attached)
+ IMG-20210429-WA0008.jpg (file attached)
+ IMG-20210429-WA0009.jpg (file attached)
+ Do last 2nd and last 4th lines mean same here?
+ They do mean the same... they are printing same value also right?
+ what is the meaning of *(A*)bp ?
+ * (A *) bp
+ It casts bp to an A pointer, then dereferences it
+ for all intents and purposes, (A*)bp is of type pointer to A, so dereferencing it will also give a variable of type A, which is assigned to a2
+ variable or type A or object ?
+ of*
+ same thing
+ If A was an abstract class, we could cast bp to type A* but we cannot dereference it, right?
+ You surely can
+ you cannot assign it to another variable of type A tho
+ bp is already a pointer to class B right ..
+what will happen if we write (A*)bp ?
+bp will become pointer to class A ?
+ <Media omitted>
+this runs correctly, and calls the derived version of foo
+ you never instantiated anything
+ yes.
+ This message was deleted
+ Here b-> foo()
+(*(A *)b).foo()
+(*(B *)b).foo()
+gives same output right ?
+ Yes
+ ?
+ if foo wasn't a virtual function, it would not give the same output
+ it is a virtual function
+ Same thing goes for reference
+ which is what is happening here
+ you can think of a reference as a pointer which is automatically dereferenced before you use it
+ ðð»ðð»Yess....got
+ In the pic she sent the reference is of type ```base``` though, right? Because function arguments are of type base
+ Its like creating a pointer of type base and then assigning base b = new derived(); I think
+ base *b
+ This message was deleted
+ The syntax of the slides gives errors
+ Slides where?
+ Cpp doesn't have labelled break
+ Moodle pe 1-2 pdf hai na
+ Bhai samajh mein hi nhi aa rha padhna kya hai ð Lag rha hai aise hi haath pair maar rhe jisse dooben na...
+ ðð
+ Thanks a lot. Got it @919560496948 @918308824231
+ ```(*b).foo()```
+ assigning pointers is just assigning the memory address, no more no less
+ you are not allocating any new memory, not instantiating anything, if you're simply assigning a pointer to the value of another pointer
+ a pointer simply stores an address, which will be a 64 bit value on most machines (32 bit if you have an old ass system)
+ thanks
+ that's it
+ Oh
+So it does have all the memory in the address it is pointing to but we cannot access it
+ Of course, this is some high level stuff and you can skip it if you don't understand it in the first fo
+ go*
+ Coolð¥ð¥ð¥
+ that is a compile time error. The compiler has access to your definitions, and it will see that it is not syntactically valid and complain
+ ð
+ It is basically in the c++ standard that the members of a class will be stored contiguously in memory, in the order of declaration
+ Yeah just checked. Got it
+ Segmentation to nhi kuch aur naam hoga uska
+ May be error ka naam nhi pata ð
+ Wait, didn't he mean m2 instead of m1?
+ Yes
+ Yess kuch stake smashing... aisa hai kya? ð
+ Yeah
+ Fine
+ It showed 2?
+ yes and m2 was a junk value
+ sorry m2 was 4
+ a->m1 comes out 0. Should have been a garbage value but okay
+ Gazaab ð
+ ððð
+ Not explicitly
+ Ah I see what you did there
+ ð
+ STK-20210430-WA0011.webp (file attached)
+ ð«
+ STK-20201221-WA0039.webp (file attached)
+ This message was deleted
+ Chill maar bhai
+ STK-20210203-WA0009.webp (file attached)
+ U go to heaven
+ Waiting to see if someone will send a sticker of an eagle getting killed
+ Apko bhagwan swarg me jagh de
+ U mean nowhere?
+ ð
+ Kinda
+ *one goes to heaven....in case u misinterpretedð¬
+ Because we have to get inspired from nature and cure cancer using our single sem biology knowledge ð
+ <Media omitted>
+ <Media omitted>
+ This was corrected later...
+ b) is correct
+ Oh I guessed so ð
+ Except TEM SEM others are for live cells?
+ Yes
+ Thx
+ Nhi bey
+ IMG-20210427-WA0031.jpg (file attached)
+Do we have to remember this?
+ Mai nhi karne wala
+ okay
+ oops
+ Where are the live lectures of module 2 uploaded ??
+ This message was deleted
+ https://www.youtube.com/watch?v=I8A78yjuvCU
+ Thanks
+ Anything important?
+ D3-D4
+ Moodle
+ IMG-20210427-WA0034.jpg (file attached)
+ Wao
+ Give me effective solutions for tomorrow's exam please
+ Sleep bruh
+ Stop RG
+ Java
+ ðpdho book bhi pdh lo
+ Tutorial sheet 2 mostly isn't in syllabus right?
+ Of M1
+ To be safe study it
+ It's based on lec 3ð¥²
+ As you can't trust them
+ Why
+ Because this
+ Wo metabolism wala hai kya
+ Ah..ð
+ Yds
+ Nhi aega be
+ Oh I'm just looking for passing
+ Marks
+ Stop RG
+ Well paper is objective
+ Ig \ge 5
+ ok
+ Tutorial 2
+ Thanks
+ anytime
+ Wannabe AM?
+ RG x86
+ o fuck completly forgot fuck fuckð­ð­ð­ð­
+ ðððð
+ yO
+ Read answers to ur questions
+ Both parts same marks?
+ wtF
+ I mean marks div?
+ Ye kaha aaya?
+ should start ð bye
+ Stfu
+ S
+This bhebhe
+ Kya bc
+ Hat
+ RG cunt
+ Mujhe nhi dena
+ Tutgrup
+ +
+ bich monke kalm
+ Then single purvert qn have more mark
+ Wowza
+ S
+Budbak more weightage per question
+ Wait what
+ These people think we are neet guys
+ Bich and monke?
+Bhowke?
+ Neet people speedrun shit
+ How much time is paper?
+ Is this real
+ 2 hours ig
+ And how 60qn = 20 marks
+That isn't even a nice fraction
+ It is what it is
+ This bio ppl should be taught ma109ð¡
+ *Remembers 0.66 marks in EE113*
+ That too subjective
+ This message was deleted
+ XD yea
+ Yea
+ Neet boi typing
+ Hahahahahaa
+ Wait so SS questions have half weightage compare to RP questions?
+ The paper checker gave 0.5/0.66 coz he didn't like my solutionð
+ But total question count double
+ Apparently yes
+ Time to read RP slides ð
+ Budbak overpowered SS
+ Bery Nice so nice paper I neet boi I love long speedrun paper my favourite yayayy hahhwhahhahhaah
+ But rp has half the qns
+ ðð??
+ But u need to read
+ STK-20210420-WA0002.webp (file attached)
+ Are u ok?
+ Less questions less details ð
+ Dw he high on slides
+ U can't contain the excitement of having to write neet type paper
+ Oh ok
+Understandable
+ I'm just simulating ur thots
+ Less qn= more marks lost for silly mistake ð
+ ++
+ He is probably thinking u r imposter now
+ Realisation ð
+ No less qn better
+ STK-20210427-WA0039.webp (file attached)
+ Everyone should be happy it's objective ð¤·ââï¸
+ 1 qn of 20 marksð
+ But why is it still there
+ Frankly I am happyð
+ Best
+ No exams would be the best yes
+ Coz u bio lobet
+ Bio mein tum log ko less qn chahiye ?
+ STK-20210422-WA0000.webp (file attached)
+ No
+ Yes
+ 0 would be ideal
+ NEET pata hai kitne ka hota hai ?
+ -1 better
+ Stfu we don't like neet
+ No
+ STK-20210427-WA0008.webp (file attached)
+ Still not 90 dude ð¥²
+ This message was deleted
+ No. of questions is a natural no
+ U
+ ð
+ 0 is natural number
+ Let's ask them to solve reimann hypothesisð
+ This message was deleted
+ I'm happy with no covid also
+ Everyone
+ Hmmm
+ Bruh no
+ STK-20210427-WA0040.webp (file attached)
+ Yea maybe bio qn for bio pplð¤
+ Yes
+ Delete this fast
+ No
+ ð¤¬
+ Whole number
+ ð
+ STK-20210427-WA0041.webp (file attached)
+ Ok I have to read purbar slydes nowðð
+ Budbad ð
+ <Media omitted>
+ Natural contain 0
+ WTH
+Really?
+ SS + Budbad making our lives hell ð­
+ I'll assume I didn't see this
+ That will make your sleep good
+ Just for confirmation
+Lec 3 is cancelled totally right?
+ <Media omitted>
+how is the shortest strand decided
+ hnji
+ Agarose gel...the one which is farthest from +ve electrode
+ where is electrode?
+ ð¥²
+ ++
+ ð
+ This message was deleted
+ Nice
+ Oh, that one. Fine then
+ ðð»
+ G â¡ C
+ Now I will be thinking obsessively about the shame and humiliation. Thanksð¥²
+ Ah, common thinking. Happens
+ You got yourself another 'something else' to do! ð
+ How will I focus on exam or regular life for the next few days
+ EE professors love students. So they've given you a break. Get well soon
+ Well I was joking about having such a problem tho
+ Oof
+ Reverse mild troll
+ Ig
+ ð
+ STK-20210428-WA0006.webp (file attached)
+ STK-20210427-WA0029.webp (file attached)
+ Nice selfie
+ Didn't given me Nobel
+ <Media omitted>
+Donald trump studied BB101
+ What shit is this in the slides?! ð¦
+ Biology
+ ð¥
+ American police shoots & kills an unarmed man
+
+Judge- "why did u shoot him? "
+
+Police - "BB101 taught me to shoot infected cells with handgun, I was just trying to help him in RP way ð¤·ââï¸"
+ So you were typing a story
+ But u should see last sentence in slide too
+ He got too excited. Forgot to read the whole thing
+ I read it
+ But still doesn't make any sense,  why to even write this stuff in slide
