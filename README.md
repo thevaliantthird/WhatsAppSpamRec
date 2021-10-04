@@ -7,7 +7,7 @@ It has been trained from using about 2000 messages from actual pre-exam texts in
 
 Considering the small Training set available, I decided to not split it into Validation, Test set at the risk of Overfitting.
 
-It had ~90% accuracy.
+It had ~80% accuracy.
 
 While it had been trained on only 2000 whatsapp texts, Its vocabulary includes a much larger set i.e. [The Intersection of much of 
 Wikipedia in 2014 (used to create the 6M Words, 200D GloVe pre-trained embeddings!) and Gerard Ekembe Ngondi and Anne Kerr's Dictionary for Computer Science].
@@ -18,14 +18,14 @@ the from [a link](https://www.kaggle.com/swarnabha/pytorch-text-classification-t
 
 In order to use the model (on Linux!), you need to have the following Libraries for Python, an incomplete list being: (and obviously you need Python itself!)
 
-*numpy
-*pandas
-*torch
-*torchtext 
-*spacy
-*sklearn
-*matplotlib
-*spacy
+* numpy
+* pandas
+* torch
+* torchtext 
+* spacy
+* sklearn
+* matplotlib
+* spacy
 
 (This is an incomplete list of libraries, which I could've recalled, there are many more as well, which you could find out after running it)
 
